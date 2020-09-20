@@ -10,12 +10,11 @@
 <hr>
 
 <p align="center">
-   <blockquote>
-         <i>A problem can be solved in a 100 different ways and There's 
-      <br>
-      always an easier way to solve a problem.</i>
-   <br>
-   </blockquote>
+    <i>"A problem can be solved in a 100 different ways and There's 
+    <br>
+    <i>always an easier way to solve a problem"</i>
+    <br>
+</p>
 
    
 <br>	
