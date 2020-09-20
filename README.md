@@ -14,7 +14,7 @@
     <br>
     <i>always an easier way to solve a problem</i>
     <br>
-</p>
+
 
    
 <br>	
