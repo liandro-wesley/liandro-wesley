@@ -1,3 +1,6 @@
+![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/liandro-wesley/Thomas-George-T.svg?cache=remove)
+
 ## Hi there 👋
 
 <p align="center">
