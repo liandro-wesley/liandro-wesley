@@ -3,18 +3,79 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/hi.gif" width="22px"> I'm
 
+<details style="width:100% ;text-align:center;">
+  <summary style="text-align:center;">💥  DISCLAIMER  💥</summary>
+    <br>
+    <p>Sorry, because the information is incomplete because I am still creating my README</p>
+    <p>Thank you for understanding!!</p>
+</details>
+<br>
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/template-git.png"/>
 </p>
 
 ## More about me <span><img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/tenor.gif" width="40px"></span>
 
-passionate about software development. I am currently a Front-end developer at Produz Digital and I'm also CEO and developer at Digital Step, an agency focused on WordPress solutions
+passionate about software development. I am currently a Front-end developer at Produz Digital and I'm also CEO and developer at Digital Step, my agency focused on WordPress solutions.
+
+<details style="width:100% ;text-align:center;">
+  <summary style="text-align:center;">My Hard Skills</summary>
+  <p style="text-align:center;">
+        <table style="width:100%">
+  <tr>
+    <th>Icon</th>
+    <th>Name</th> 
+  </tr>
+  <tr>
+    <td>---</td>
+    <td>---</td>
+  </tr>
+  <tr>
+    <td>---</td>
+    <td>---</td>
+  </tr>
+  <tr>
+    <td>---</td>
+    <td>---</td>
+  </tr>
+</table>
+  </p>
+</details>
+
+<br>
+
+<details style="width:100% ;text-align:center;">
+  <summary style="text-align:center;">My Soft Skills</summary>
+  <p style="text-align:center;">
+        <table style="width:100%">
+  <tr>
+    <th>Title</th>
+    <th>Description</th> 
+  </tr>
+  <tr>
+    <td>---</td>
+    <td>---</td>
+  </tr>
+  <tr>
+    <td>---</td>
+    <td>---</td>
+  </tr>
+  <tr>
+    <td>---</td>
+    <td>---</td>
+  </tr>
+</table>
+  </p>
+</details>
+
+
 
 <br>
 <br>
 <br>
 <br>
+
 <p align="center">
     <i><strong>A problem</strong> can be solved in a 100 different ways and There's 
     <br>
