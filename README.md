@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/template-git.png"/>
 </p>
 
-## More about me
+## More about me <span><img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/tenor.gif" width="40px"></span>
 
 passionate about software development. I am currently a Front-end developer at Produz Digital and I'm also CEO and developer at Digital Step, an agency focused on WordPress solutions
 
