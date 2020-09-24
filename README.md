@@ -7,8 +7,14 @@
 <img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/template-git.png"/>
 </p>
 
-<hr>
+## More about me
 
+passionate about software development. I am currently a Front-end developer at Produz Digital and I'm also CEO and developer at Digital Step, an agency focused on WordPress solutions
+
+<br>
+<br>
+<br>
+<br>
 <p align="center">
     <i><strong>A problem</strong> can be solved in a 100 different ways and There's 
     <br>
