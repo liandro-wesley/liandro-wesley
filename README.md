@@ -19,6 +19,7 @@
 
 passionate about software development. I am currently a Front-end developer at Produz Digital and I'm also CEO and developer at Digital Step, my agency focused on WordPress solutions.
 
+
 <details style="width:100% ;text-align:center;">
   <summary style="text-align:center;">My Hard Skills</summary>
   <p style="text-align:center;">
@@ -42,8 +43,6 @@ passionate about software development. I am currently a Front-end developer at P
 </table>
   </p>
 </details>
-
-<br>
 
 <details style="width:100% ;text-align:center;">
   <summary style="text-align:center;">My Soft Skills</summary>
