@@ -72,8 +72,6 @@ passionate about software development. I am currently a Front-end developer at P
 
 <br>
 <br>
-<br>
-<br>
 
 <p align="center">
     <i><strong>A problem</strong> can be solved in a 100 different ways and There's 
