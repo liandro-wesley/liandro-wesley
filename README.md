@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/template-git.png"/>
+<img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/template.png"/>
 </p>
 
 ## More about me <span><img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/tenor.gif" width="40px"></span>
