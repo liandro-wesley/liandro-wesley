@@ -2,12 +2,7 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/hi.gif" width="22px"> I'm
 
-<details style="width:100% ;text-align:center;">
-  <summary style="text-align:center;">💥  DISCLAIMER  💥</summary>
-    <br>
-    <p>Sorry, because the information is incomplete because I am still creating my README</p>
-    <p>Thank you for understanding!!</p>
-</details>
+
 <br>
 
 <p align="center">
