@@ -1,6 +1,6 @@
 ![ViewCount](https://views.whatilearened.today/views/github/liandro-wesley/Thomas-George-T.svg?cache=remove)
 
-## Hi there <img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/hi.gif" width="22px"> I'm
+## Fala turma, tranquilo? <img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/hi.gif" width="22px"> Eu sou
 
 
 <br>
@@ -9,68 +9,18 @@
 <img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/template.png"/>
 </p>
 
-## More about me <span><img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/tenor.gif" width="40px"></span>
+## Um pouco sobre mim
 
-passionate about software development. I am currently a Front-end developer at Produz Digital and I'm also CEO and developer at Digital Step, my agency focused on WordPress solutions.
-
-
-<details style="width:100% ;text-align:center;">
-  <summary style="text-align:center;">My Hard Skills</summary>
-  <p style="text-align:center;">
-        <table style="width:100%">
-  <tr>
-    <th>Icon</th>
-    <th>Name</th> 
-  </tr>
-  <tr>
-    <td>---</td>
-    <td>---</td>
-  </tr>
-  <tr>
-    <td>---</td>
-    <td>---</td>
-  </tr>
-  <tr>
-    <td>---</td>
-    <td>---</td>
-  </tr>
-</table>
-  </p>
-</details>
-
-<details style="width:100% ;text-align:center;">
-  <summary style="text-align:center;">My Soft Skills</summary>
-  <p style="text-align:center;">
-        <table style="width:100%">
-  <tr>
-    <th>Title</th>
-    <th>Description</th> 
-  </tr>
-  <tr>
-    <td>---</td>
-    <td>---</td>
-  </tr>
-  <tr>
-    <td>---</td>
-    <td>---</td>
-  </tr>
-  <tr>
-    <td>---</td>
-    <td>---</td>
-  </tr>
-</table>
-  </p>
-</details>
-
+Sou apaixonado por todo ciclo de desenvolvimento para Web. Em especial, o front-end! Sou formado em Automação Industrial e, neste momento, curso Análise e Desenvolvimento de Sistemas. Além disso, me considero um eterno aprendiz #lifelonglearning, portanto, estou sempre buscando aprender coisas novas, interagir com pessoas de várias stacks através de comunidades, entre outros.
 
 
 <br>
 <br>
 
 <p align="center">
-    <i><strong>A problem</strong> can be solved in a 100 different ways and There's 
+    <i><strong>Um problema</strong> pode ser resolvido de 100 maneiras diferentes e mesmo assim 
     <br>
-    <i>always an easier way to solve a problem</i>
+    <i>sempre haverá uma maneira mais fácil de resolver um problema</i>
     <br>
 
 
