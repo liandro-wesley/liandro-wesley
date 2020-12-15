@@ -15,6 +15,10 @@ Sou apaixonado por todo ciclo de desenvolvimento para Web. Em especial, o front-
 
 
 <br>
+
+<p align="center"><strong>Code is poetry!</strong></p>
+
+
 <br>
 
 <p align="center">
