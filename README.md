@@ -22,11 +22,11 @@ Sou apaixonado por todo ciclo de desenvolvimento para Web. Em especial, o front-
 
 ## Projetos que tenho orgulho de ter criado
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liandro-wesley&repo=how-to-use-kirki)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liandro-wesley&theme=dark&repo=how-to-use-kirki)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liandro-wesley&repo=desafio-covid19)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liandro-wesley&theme=dark&repo=desafio-covid19)](https://github.com/anuraghazra/github-readme-stats)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liandro-wesley&repo=Links-uteis)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liandro-wesley&theme=dark&repo=Links-uteis)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br>
