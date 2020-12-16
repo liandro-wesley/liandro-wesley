@@ -14,6 +14,9 @@
 Sou apaixonado por todo ciclo de desenvolvimento para Web. Em especial, o front-end! Sou formado em Automação Industrial e, neste momento, curso Análise e Desenvolvimento de Sistemas. Além disso, me considero um eterno aprendiz #lifelonglearning, portanto, estou sempre buscando aprender coisas novas, interagir com pessoas de várias stacks através de comunidades, entre outros.
 
 ## Acompanhe-me
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=liandro-wesley&theme=dark&layout=compact)](https://github.com/nathyts/github-readme-stats)
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=liandro-wesley&theme=dark&layout=compact)](https://github.com/nathyts/github-readme-stats)
 
