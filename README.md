@@ -13,12 +13,20 @@
 
 Sou apaixonado por todo ciclo de desenvolvimento para Web. Em especial, o front-end! Sou formado em Automação Industrial e, neste momento, curso Análise e Desenvolvimento de Sistemas. Além disso, me considero um eterno aprendiz #lifelonglearning, portanto, estou sempre buscando aprender coisas novas, interagir com pessoas de várias stacks através de comunidades, entre outros.
 
-## Acompanhe-me
-[![Top Langs](https://github-readme-stats.vercel.app/api/?username=liandro-wesley&layout=compact)](https://github.com/nathyts/github-readme-stats)
+## O que faço por aqui no Github?
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=liandro-wesley&theme=dark&layout=compact)](https://github.com/nathyts/github-readme-stats)
 
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=liandro-wesley&theme=dark&layout=compact)](https://github.com/nathyts/github-readme-stats)
+
+## Projetos que tenho orgulho de ter criado
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liandro-wesley&repo=how-to-use-kirki)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liandro-wesley&repo=desafio-covid19)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=liandro-wesley&repo=Links-uteis)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br>
