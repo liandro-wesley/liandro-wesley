@@ -1,5 +1,6 @@
-## Fala turma, tranquilo? <img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/hi.gif" width="22px"> 
-
+<p align="center">
+    <img src="./template.png" />
+</p>
 
 <br>
 
