@@ -1,15 +1,9 @@
 ![ViewCount](https://views.whatilearened.today/views/github/liandro-wesley/Thomas-George-T.svg?cache=remove)
 
-## Fala turma, tranquilo? <img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/hi.gif" width="22px"> Eu sou
+## Fala turma, tranquilo? <img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/hi.gif" width="22px"> 
 
 
 <br>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/template.png"/>
-</p>
-
-## Um pouco sobre mim
 
 Sou apaixonado por todo ciclo de desenvolvimento para Web. Em especial, o front-end! Sou formado em Automação Industrial e, neste momento, curso Análise e Desenvolvimento de Sistemas. Além disso, me considero um eterno aprendiz #lifelonglearning, portanto, estou sempre buscando aprender coisas novas, interagir com pessoas de várias stacks através de comunidades, entre outros.
 
