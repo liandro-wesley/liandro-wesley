@@ -1,5 +1,3 @@
-![ViewCount](https://views.whatilearened.today/views/github/liandro-wesley/Thomas-George-T.svg?cache=remove)
-
 ## Fala turma, tranquilo? <img src="https://raw.githubusercontent.com/liandro-wesley/liandro-wesley/master/hi.gif" width="22px"> 
 
 
